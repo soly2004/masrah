@@ -1,0 +1,470 @@
+{
+  "status": "success",
+  "total_results": 40,
+  "data": [
+    {
+      "id": "EVT-1001",
+      "title": "Omar Khairat Live Orchestra",
+      "venue": "Cairo Opera House - Main Hall",
+      "city": "Cairo",
+      "date": "2027-05-15T20:00:00Z",
+      "seat_categories": [
+        { "name": "Bronze", "price_egp": 800.0 },
+        { "name": "Silver", "price_egp": 1500.0 },
+        { "name": "Gold", "price_egp": 2500.0 },
+        { "name": "VIP", "price_egp": 4000.0 }
+      ]
+    },
+    {
+      "id": "EVT-1002",
+      "title": "Cairokee Empire 3rd Edition",
+      "venue": "Zed Park",
+      "city": "Sheikh Zayed City",
+      "date": "2027-06-02T19:00:00Z",
+      "seat_categories": [
+        { "name": "General Admission", "price_egp": 500.0 },
+        { "name": "Fan Pit", "price_egp": 950.0 },
+        { "name": "VIP Lounge", "price_egp": 2500.0 }
+      ]
+    },
+    {
+      "id": "EVT-1003",
+      "title": "Amr Diab Summer Vibes",
+      "venue": "New Alamein Arena",
+      "city": "New Alamein",
+      "date": "2027-07-20T21:30:00Z",
+      "seat_categories": [
+        { "name": "Regular", "price_egp": 1200.0 },
+        { "name": "Golden Circle", "price_egp": 3500.0 },
+        { "name": "VVIP Table (Per Person)", "price_egp": 8000.0 }
+      ]
+    },
+    {
+      "id": "EVT-1004",
+      "title": "Swan Lake Ballet",
+      "venue": "Cairo Opera House - Main Hall",
+      "city": "Cairo",
+      "date": "2027-05-22T20:00:00Z",
+      "seat_categories": [
+        { "name": "Balcony", "price_egp": 450.0 },
+        { "name": "Loge", "price_egp": 700.0 },
+        { "name": "Orchestra", "price_egp": 1200.0 }
+      ]
+    },
+    {
+      "id": "EVT-1005",
+      "title": "Ali Kandil Standup Comedy",
+      "venue": "El Sawy Culturewheel - River Hall",
+      "city": "Cairo",
+      "date": "2027-05-18T19:30:00Z",
+      "seat_categories": [
+        { "name": "Standard", "price_egp": 250.0 },
+        { "name": "Premium", "price_egp": 400.0 }
+      ]
+    },
+    {
+      "id": "EVT-1006",
+      "title": "Massar Egbari Coastal Tour",
+      "venue": "Bibliotheca Alexandrina - Open Air Plaza",
+      "city": "Alexandria",
+      "date": "2027-06-10T20:00:00Z",
+      "seat_categories": [
+        { "name": "Early Bird", "price_egp": 300.0 },
+        { "name": "Regular", "price_egp": 450.0 },
+        { "name": "VIP", "price_egp": 1000.0 }
+      ]
+    },
+    {
+      "id": "EVT-1007",
+      "title": "Sound and Light Show",
+      "venue": "Giza Plateau",
+      "city": "Giza",
+      "date": "2027-05-10T19:00:00Z",
+      "seat_categories": [
+        { "name": "Egyptian/Arab Resident", "price_egp": 350.0 },
+        { "name": "VIP Front Row", "price_egp": 800.0 }
+      ]
+    },
+    {
+      "id": "EVT-1008",
+      "title": "Wegz Homecoming",
+      "venue": "Borg El Arab Stadium",
+      "city": "Alexandria",
+      "date": "2027-07-05T20:00:00Z",
+      "seat_categories": [
+        { "name": "Regular Standing", "price_egp": 600.0 },
+        { "name": "Front Pit", "price_egp": 1200.0 },
+        { "name": "VIP Seated", "price_egp": 2800.0 }
+      ]
+    },
+    {
+      "id": "EVT-1009",
+      "title": "Charlie - The Musical",
+      "venue": "Movenpick Media City Theater",
+      "city": "6th of October",
+      "date": "2027-05-25T21:00:00Z",
+      "seat_categories": [
+        { "name": "Silver", "price_egp": 600.0 },
+        { "name": "Gold", "price_egp": 900.0 },
+        { "name": "Platinum", "price_egp": 1500.0 },
+        { "name": "Diamond", "price_egp": 2500.0 }
+      ]
+    },
+    {
+      "id": "EVT-1010",
+      "title": "Angham Live in Concert",
+      "venue": "The Marquee",
+      "city": "New Cairo",
+      "date": "2027-06-15T21:00:00Z",
+      "seat_categories": [
+        { "name": "Bronze", "price_egp": 1500.0 },
+        { "name": "Silver", "price_egp": 2500.0 },
+        { "name": "Gold", "price_egp": 4000.0 },
+        { "name": "Royal", "price_egp": 7500.0 }
+      ]
+    },
+    {
+      "id": "EVT-1011",
+      "title": "Sharmoofers Jungle Party",
+      "venue": "Family Park",
+      "city": "New Cairo",
+      "date": "2027-05-30T17:00:00Z",
+      "seat_categories": [
+        { "name": "General Admission", "price_egp": 450.0 },
+        { "name": "VIP Lounge", "price_egp": 1200.0 }
+      ]
+    },
+    {
+      "id": "EVT-1012",
+      "title": "Aida Opera at Hatshepsut Temple",
+      "venue": "Temple of Hatshepsut",
+      "city": "Luxor",
+      "date": "2027-10-26T18:30:00Z",
+      "seat_categories": [
+        { "name": "Category C", "price_egp": 3000.0 },
+        { "name": "Category B", "price_egp": 5500.0 },
+        { "name": "Category A", "price_egp": 9000.0 },
+        { "name": "VIP", "price_egp": 15000.0 }
+      ]
+    },
+    {
+      "id": "EVT-1013",
+      "title": "The Elite Standup Comedy",
+      "venue": "AUC Tahrir Square - Ewart Hall",
+      "city": "Cairo",
+      "date": "2027-05-24T20:00:00Z",
+      "seat_categories": [
+        { "name": "Balcony", "price_egp": 300.0 },
+        { "name": "Orchestra", "price_egp": 500.0 },
+        { "name": "VIP Meet & Greet", "price_egp": 1000.0 }
+      ]
+    },
+    {
+      "id": "EVT-1014",
+      "title": "Tamer Hosny Mega Concert",
+      "venue": "Cairo Stadium Indoor Halls Complex",
+      "city": "Cairo",
+      "date": "2027-08-10T21:00:00Z",
+      "seat_categories": [
+        { "name": "Upper Tier", "price_egp": 400.0 },
+        { "name": "Lower Tier", "price_egp": 800.0 },
+        { "name": "Floor Standing", "price_egp": 1500.0 },
+        { "name": "VIP Platform", "price_egp": 3500.0 }
+      ]
+    },
+    {
+      "id": "EVT-1015",
+      "title": "Whirling Dervishes (Tannoura)",
+      "venue": "Wekalet El Ghouri",
+      "city": "Cairo",
+      "date": "2027-05-11T19:30:00Z",
+      "seat_categories": [
+        { "name": "Standard Entry", "price_egp": 150.0 }
+      ]
+    },
+    {
+      "id": "EVT-1016",
+      "title": "Black Theama 20th Anniversary",
+      "venue": "El Sawy Culturewheel - Wisdom Hall",
+      "city": "Cairo",
+      "date": "2027-06-05T20:00:00Z",
+      "seat_categories": [
+        { "name": "Standard", "price_egp": 300.0 },
+        { "name": "Front Rows", "price_egp": 500.0 }
+      ]
+    },
+    {
+      "id": "EVT-1017",
+      "title": "Dina El Wedidi Acoustic Night",
+      "venue": "Room Art Space",
+      "city": "Cairo",
+      "date": "2027-05-29T21:00:00Z",
+      "seat_categories": [
+        { "name": "General Admission", "price_egp": 400.0 }
+      ]
+    },
+    {
+      "id": "EVT-1018",
+      "title": "Karnak Sound & Light Show",
+      "venue": "Karnak Temple Complex",
+      "city": "Luxor",
+      "date": "2027-05-12T19:00:00Z",
+      "seat_categories": [
+        { "name": "Standard", "price_egp": 350.0 },
+        { "name": "VIP", "price_egp": 600.0 }
+      ]
+    },
+    {
+      "id": "EVT-1019",
+      "title": "Philae Temple Night Experience",
+      "venue": "Philae Temple",
+      "city": "Aswan",
+      "date": "2027-05-14T20:00:00Z",
+      "seat_categories": [
+        { "name": "Standard (Excluding Boat Ride)", "price_egp": 400.0 },
+        { "name": "VIP (Includes Private Motorboat)", "price_egp": 950.0 }
+      ]
+    },
+    {
+      "id": "EVT-1020",
+      "title": "Umm Kulthum Hologram Concert",
+      "venue": "Abdeen Palace Courtyard",
+      "city": "Cairo",
+      "date": "2027-06-20T21:00:00Z",
+      "seat_categories": [
+        { "name": "Bronze", "price_egp": 1200.0 },
+        { "name": "Silver", "price_egp": 2000.0 },
+        { "name": "Gold", "price_egp": 3500.0 },
+        { "name": "Royal Box", "price_egp": 6000.0 }
+      ]
+    },
+    {
+      "id": "EVT-1021",
+      "title": "King Lear - National Theatre",
+      "venue": "National Theatre",
+      "city": "Cairo",
+      "date": "2027-05-16T20:00:00Z",
+      "seat_categories": [
+        { "name": "Balcony", "price_egp": 200.0 },
+        { "name": "Main Hall", "price_egp": 350.0 },
+        { "name": "VIP", "price_egp": 600.0 }
+      ]
+    },
+    {
+      "id": "EVT-1022",
+      "title": "Marwan Pablo Return",
+      "venue": "Cairo International Velodrome",
+      "city": "Cairo",
+      "date": "2027-07-12T19:00:00Z",
+      "seat_categories": [
+        { "name": "Regular", "price_egp": 700.0 },
+        { "name": "Golden Circle", "price_egp": 1500.0 }
+      ]
+    },
+    {
+      "id": "EVT-1023",
+      "title": "Wust El Balad Live",
+      "venue": "Cairo Jazz Club 610",
+      "city": "Sheikh Zayed City",
+      "date": "2027-05-31T22:00:00Z",
+      "seat_categories": [
+        { "name": "Bar Area", "price_egp": 500.0 },
+        { "name": "High Table (Min 4 pax)", "price_egp": 800.0 },
+        { "name": "Lounge (Min 6 pax)", "price_egp": 1200.0 }
+      ]
+    },
+    {
+      "id": "EVT-1024",
+      "title": "El Leila El Kebira Puppet Show",
+      "venue": "Cairo Puppet Theatre",
+      "city": "Cairo",
+      "date": "2027-05-17T18:00:00Z",
+      "seat_categories": [
+        { "name": "Standard", "price_egp": 100.0 },
+        { "name": "Family Pack (4 Tickets)", "price_egp": 350.0 }
+      ]
+    },
+    {
+      "id": "EVT-1025",
+      "title": "Sherine Abdel-Wahab Emotional Night",
+      "venue": "MUST Opera House",
+      "city": "6th of October",
+      "date": "2027-06-28T21:00:00Z",
+      "seat_categories": [
+        { "name": "Bronze", "price_egp": 1800.0 },
+        { "name": "Silver", "price_egp": 3000.0 },
+        { "name": "Gold", "price_egp": 4500.0 },
+        { "name": "Platinum", "price_egp": 6500.0 }
+      ]
+    },
+    {
+      "id": "EVT-1026",
+      "title": "Autostrad Indie Rock",
+      "venue": "The Greek Campus",
+      "city": "Cairo",
+      "date": "2027-06-07T19:30:00Z",
+      "seat_categories": [
+        { "name": "General Admission", "price_egp": 450.0 },
+        { "name": "VIP Standing", "price_egp": 850.0 }
+      ]
+    },
+    {
+      "id": "EVT-1027",
+      "title": "Nubian Music Festival",
+      "venue": "Aswan Botanical Garden",
+      "city": "Aswan",
+      "date": "2027-11-15T16:00:00Z",
+      "seat_categories": [
+        { "name": "Day Pass", "price_egp": 500.0 },
+        { "name": "Weekend Pass", "price_egp": 900.0 },
+        { "name": "VIP All-Access", "price_egp": 2000.0 }
+      ]
+    },
+    {
+      "id": "EVT-1028",
+      "title": "Macbeth - Arabic Adaptation",
+      "venue": "Hanager Arts Center",
+      "city": "Cairo",
+      "date": "2027-05-23T20:00:00Z",
+      "seat_categories": [
+        { "name": "Standard", "price_egp": 150.0 },
+        { "name": "Premium", "price_egp": 250.0 }
+      ]
+    },
+    {
+      "id": "EVT-1029",
+      "title": "Fouad and Mounib Piano & Violin",
+      "venue": "Bibliotheca Alexandrina - Small Hall",
+      "city": "Alexandria",
+      "date": "2027-06-21T19:00:00Z",
+      "seat_categories": [
+        { "name": "Regular", "price_egp": 350.0 },
+        { "name": "VIP", "price_egp": 600.0 }
+      ]
+    },
+    {
+      "id": "EVT-1030",
+      "title": "Comedy Sett - All Female Lineup",
+      "venue": "Rawabet Art Space",
+      "city": "Cairo",
+      "date": "2027-05-19T20:00:00Z",
+      "seat_categories": [
+        { "name": "General Admission", "price_egp": 250.0 }
+      ]
+    },
+    {
+      "id": "EVT-1031",
+      "title": "Hamza Namira - Raye2 Tour",
+      "venue": "Al Manara International Conference Center",
+      "city": "New Cairo",
+      "date": "2027-08-15T21:00:00Z",
+      "seat_categories": [
+        { "name": "Silver", "price_egp": 800.0 },
+        { "name": "Gold", "price_egp": 1500.0 },
+        { "name": "VIP", "price_egp": 2800.0 }
+      ]
+    },
+    {
+      "id": "EVT-1032",
+      "title": "Red Bull SoundClash",
+      "venue": "Dandy Mall Parking Arena",
+      "city": "6th of October",
+      "date": "2027-09-06T18:00:00Z",
+      "seat_categories": [
+        { "name": "Early Bird Standing", "price_egp": 500.0 },
+        { "name": "Regular Standing", "price_egp": 750.0 },
+        { "name": "VIP Deck", "price_egp": 1800.0 }
+      ]
+    },
+    {
+      "id": "EVT-1033",
+      "title": "Sufi Night by Sheikh Yasin El Tuhamy",
+      "venue": "El Hussein Square",
+      "city": "Cairo",
+      "date": "2027-07-25T22:00:00Z",
+      "seat_categories": [
+        { "name": "Reserved Seating", "price_egp": 200.0 },
+        { "name": "VIP Front Row", "price_egp": 500.0 }
+      ]
+    },
+    {
+      "id": "EVT-1034",
+      "title": "Cairo Jazz Festival 2024",
+      "venue": "AUC New Cairo Campus",
+      "city": "New Cairo",
+      "date": "2027-10-31T17:00:00Z",
+      "seat_categories": [
+        { "name": "1-Day Pass", "price_egp": 600.0 },
+        { "name": "3-Day Pass", "price_egp": 1500.0 }
+      ]
+    },
+    {
+      "id": "EVT-1035",
+      "title": "Alexandria Film Festival Opening",
+      "venue": "Sayed Darwish Theatre",
+      "city": "Alexandria",
+      "date": "2027-09-10T19:00:00Z",
+      "seat_categories": [
+        { "name": "Balcony", "price_egp": 300.0 },
+        { "name": "Orchestra", "price_egp": 700.0 },
+        { "name": "VIP", "price_egp": 1500.0 }
+      ]
+    },
+    {
+      "id": "EVT-1036",
+      "title": "Nancy Ajram Live",
+      "venue": "Makadi Heights",
+      "city": "Hurghada",
+      "date": "2027-08-23T21:30:00Z",
+      "seat_categories": [
+        { "name": "Regular", "price_egp": 2000.0 },
+        { "name": "VIP Standing", "price_egp": 4500.0 },
+        { "name": "VVIP Lounge", "price_egp": 9000.0 }
+      ]
+    },
+    {
+      "id": "EVT-1037",
+      "title": "Ghalia Benali Mystical Tunes",
+      "venue": "Gezira Club - Open Air",
+      "city": "Cairo",
+      "date": "2027-06-14T20:30:00Z",
+      "seat_categories": [
+        { "name": "Standard", "price_egp": 600.0 },
+        { "name": "Premium", "price_egp": 1000.0 }
+      ]
+    },
+    {
+      "id": "EVT-1038",
+      "title": "Helmyman Open Mic Night",
+      "venue": "Darb 1718",
+      "city": "Cairo",
+      "date": "2027-05-13T19:00:00Z",
+      "seat_categories": [
+        { "name": "Entry Ticket", "price_egp": 150.0 }
+      ]
+    },
+    {
+      "id": "EVT-1039",
+      "title": "Ragheb Alama Valentine's Special",
+      "venue": "Triumph Luxury Hotel",
+      "city": "New Cairo",
+      "date": "2027-02-14T22:00:00Z",
+      "seat_categories": [
+        { "name": "Silver", "price_egp": 4000.0 },
+        { "name": "Gold", "price_egp": 7000.0 },
+        { "name": "Diamond (Includes Dinner)", "price_egp": 12000.0 }
+      ]
+    },
+    {
+      "id": "EVT-1040",
+      "title": "Folklore Dance Festival",
+      "venue": "Gomhouria Theatre",
+      "city": "Cairo",
+      "date": "2027-05-28T20:00:00Z",
+      "seat_categories": [
+        { "name": "Standard", "price_egp": 250.0 },
+        { "name": "VIP", "price_egp": 450.0 }
+      ]
+    }
+  ]
+}
